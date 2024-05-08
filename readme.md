@@ -76,7 +76,7 @@ Show any branches that are not synced to a remote
 a
 b
 c
-doggo goodest
+doggo goodest boyo
 e
 f
 g
