@@ -26,6 +26,7 @@ https://www.notion.so/voyagestudio/Git-workflow-f18fd352d69f429c8d76212da63fa041
 - alias gra="git rebase --abort"
 - alias gcd="git checkout develop"
 - alias grd="git rebase develop"
+- alias grs="git restore --staged"
 - alias gc="git commit -v"
 - alias gco="git checkout"
 - alias gca="git commit --amend"
