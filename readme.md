@@ -76,7 +76,7 @@ Show any branches that are not synced to a remote
 
 a
 b
-c
+cardboard
 d
 e
 f
